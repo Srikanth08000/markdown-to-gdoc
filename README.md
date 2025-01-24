@@ -40,6 +40,3 @@ Within the Colab environment, you’ll need:
 You can install them in the Colab notebook with:
 ```bash
 !pip install --quiet google-api-python-client google-auth-httplib2 google-auth-oauthlib
-
-```bash
-!pip install --quiet google-api-python-client google-auth-httplib2 google-auth-oauthlib
